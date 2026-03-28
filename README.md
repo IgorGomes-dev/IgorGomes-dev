@@ -1,6 +1,6 @@
 ## Greetings! I am Igor!
 
-- 📰 Profile Page: https://igorgomes-dev.github.io/profile-page/
+- <a href="https://igorgomes-dev.github.io/profile-page/" target="_blank">📰 Profile Page</a>
 
 - 🔭 16 Years old!
 - 🌱 Learning JavaScript
